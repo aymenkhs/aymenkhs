@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Aymen Khouas
 
+I'm a data science student in University of Sience and Technlogie Houari Boumediene...
 <!--
 **aymenkhs/aymenkhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
