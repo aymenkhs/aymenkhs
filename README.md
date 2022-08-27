@@ -24,7 +24,7 @@ const Aymen = {
         mobileApp: ["Flutter"],   
         devOps: ["Docker", "Nginx"]
     }
-    interestedAbout : ["Neural Networks", "Machine Learning", "Genetic Algorithms", "NLP", "NEAT"]
+    interestedAbout : ["Neural Networks", "Machine Learning", "Genetic Algorithms", "NLP", "Transformers", "Diffusers"]
 }
 ```
 
