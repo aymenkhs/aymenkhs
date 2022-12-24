@@ -21,7 +21,7 @@ aymen = {
         "Database" : ["MongoDB", "MySql", "SQLite3", "Hive", "Redis"],
         "BackEnd" : ["FastAPI", "Flask", "Django"],
         "FronEnd" : ["Vue"],
-        Mobile" : ["Flutter"],
+        "Mobile" : ["Flutter"],
         "MLOps & devOps" : ["DVC", "CML", "Docker", "Nginx"],
     }
     interestedAbout : ["Neural Networks", "Machine Learning", "Genetic Algorithms", "NLP", "Transformers", "Diffusion models"]
