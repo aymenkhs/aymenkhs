@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Aymen
-
-<br/> ⚡ I'm curently an Artificial Inteligence student in University of Sience and Technlogie Houari Boumediene, 
-<br/> ⚡ DataGenius Intern.
-<br/> ⚡ Active member and Ex-President at [@OpenMindsClub](http://openmindsclub.net/).
+ 
+<br/> ⚡ Machine Learning Engineer at Legal Doctrine.
+<br/> ⚡ Artificial Inteligence major from the University of Sience and Technlogie Houari Boumediene (USTHB),
+<br/> ⚡ Ex-President at [@OpenMindsClub](http://openmindsclub.net/).
 
 
 [![](https://img.shields.io/badge/-Aymen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aymen-rayane-khouas/)](https://www.linkedin.com/in/aymen-rayane-khouas/)
@@ -11,20 +11,20 @@
 
 ## 💬 some facts about me...
 
-```js
-const Aymen = {
-    askMeAbout: ["tech", "Artificial Intelligence", "Open Source", "Video games", "History"],
-    codeIn : ["python", "C", "Dart", "Hate JAVA", "JS"],
+```python
+aymen = {
+    askMeAbout: ["tech", "Artificial Intelligence", "NLP", "Open Source", "Video games", "Philosophy"],
+    codeIn : ["Python", "C", "Dart", "JAVA", "JS"],
     technologies: {
-        data : ["numpy", "pandas", "matplotlib", "seaborn"],
-        artificialInteligence : ["Sklearn", "pytorch", "TensorFlow"],
-        database: ["MongoDB", "MySql", "SQLite3", "Hive"],
-        backEnd: ["nodejs", "flask", "django"],
-        fronEnd: ["Vue", "Nuxt"],
-        mobileApp: ["Flutter"],   
-        devOps: ["Docker", "Nginx"]
+        "Data" : ["Numpy", "Pandas", "Matplotlib", "Seaborn"],
+        "Artificial Inteligence" : ["Sklearn", "Pytorch", "Hugging Face", "Spacy"],
+        "Database" : ["MongoDB", "MySql", "SQLite3", "Hive", "Redis"],
+        "BackEnd" : ["FastAPI", "Flask", "Django"],
+        "FronEnd" : ["Vue"],
+        Mobile" : ["Flutter"],
+        "MLOps & devOps" : ["DVC", "CML", "Docker", "Nginx"],
     }
-    interestedAbout : ["Neural Networks", "Machine Learning", "Genetic Algorithms", "NLP", "Transformers", "Diffusers"]
+    interestedAbout : ["Neural Networks", "Machine Learning", "Genetic Algorithms", "NLP", "Transformers", "Diffusion models"]
 }
 ```
 
