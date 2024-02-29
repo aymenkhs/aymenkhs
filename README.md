@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Aymen
  
-<br/> ⚡ Machine Learning Engineer at Legal Doctrine.
+<br/> ⚡ PhD student at Deakin University
 <br/> ⚡ Artificial Inteligence major from the University of Sience and Technlogie Houari Boumediene (USTHB),
-<br/> ⚡ Ex-President at [@OpenMindsClub](http://openmindsclub.net/).
+<br/> ⚡ Ex-President at [@OpenMindsClub](http://openmindsclub.net/) and Ex Machine Learning Engineer at Legal Doctrine.
 
 
 [![](https://img.shields.io/badge/-Aymen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aymen-rayane-khouas/)](https://www.linkedin.com/in/aymen-rayane-khouas/)
@@ -13,7 +13,7 @@
 
 ```python
 aymen = {
-    askMeAbout: ["tech", "Artificial Intelligence", "NLP", "Open Source", "Video games", "Philosophy"],
+    askMeAbout: ["Artificial Intelligence", "NLP", "Open Source", "Video games", "Machine Learning"],
     codeIn : ["Python", "C", "Dart", "JAVA", "JS"],
     technologies: {
         "Data" : ["Numpy", "Pandas", "Matplotlib", "Seaborn"],
@@ -23,8 +23,8 @@ aymen = {
         "FronEnd" : ["Vue"],
         "Mobile" : ["Flutter"],
         "MLOps & devOps" : ["DVC", "CML", "Docker", "Nginx"],
-    }
-    interestedAbout : ["Neural Networks", "Machine Learning", "Genetic Algorithms", "NLP", "Transformers", "Diffusion models"]
+    },
+    interestedAbout : ["Neural Networks", "Machine Learning", "Genetic Algorithms", "NLP", "Transformers", "Diffusion models"],
 }
 ```
 
